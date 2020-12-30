@@ -8,7 +8,7 @@ Este repositório é mantido pelo capítulo PyLadies Sergipe, trazendo uma séri
 
 | Desafio | Nome | Nível |
 | ------------- |:-------------:|:-------------:|
-|0000| [Bem-vinda!](https://github.com/pyladies-sergipe/challenges-python/d0000_bem_vinda) | iniciante |
+|0000| [Bem-vinda!](d0000-bem-vinda/README.md) | iniciante |
 
 ## Como funciona? :thinking:
 
