@@ -3,8 +3,7 @@
 # Python Challenges
 Este repositório é mantido pelo capítulo PyLadies Sergipe, trazendo uma série de desafios de **Algoritmos** para serem resolvidos com a linguagem Python.
 
-[![GitHub](https://img.shields.io/github/license/pyladies-sergipe/challenges-python?style=for-the-badge)](/license)
-
+![GitHub license](https://img.shields.io/github/license/pyladies-sergipe/challenges-python?color=red&style=flat-square)
 ## :computer: Desafios disponíveis
 
 | Desafio | Nome | Nível |
