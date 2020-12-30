@@ -8,7 +8,7 @@ Este repositório é mantido pelo capítulo PyLadies Sergipe, trazendo uma séri
 
 | Desafio | Nome | Nível |
 | ------------- |:-------------:|:-------------:|
-|0000| [Bem-vinda!](d0000-bem-vinda/README.md) | iniciante |
+|0000| [Bem-vinda!](desafios-py/d0000-bem-vinda) | iniciante |
 
 ## Como funciona? :thinking:
 
@@ -36,7 +36,7 @@ Cada desafio tem sua pasta onde é possível encontrar o enunciado e subir com a
 
 1. Faça um Fork desse repositório.
 2. Procure pela pasta/diretório correspondente ao desafio que deseja solucionar.
-3. Crie crie a sua solução em script Python com o mesmo nome do diretório. Caso a sua solução seja a primeira existente, escreva **v0** ao final do nome do arquivo. Exemplo: **d0021-fatorial-v0.py** ou **d0021-fatorial-v1.py**, caso seja a segunda solução proposta e assim por diante.
+3. Crie a sua solução em script Python com o mesmo nome do diretório. Caso a sua solução seja a primeira existente, escreva **v0** ao final do nome do arquivo. Exemplo: **d0021-fatorial-v0.py** ou **d0021-fatorial-v1.py**, caso seja a segunda solução proposta e assim por diante.
 5. Suba seus arquivos para o seu repositório Git e envie um Pull Request para o repositório original. :boom:
 
 ### Modo 3: Se você  NÃO é uma Pylady Sergipe e deseja propor um desafio:
