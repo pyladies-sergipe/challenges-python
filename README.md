@@ -9,6 +9,7 @@ Este repositório é mantido pelo capítulo PyLadies Sergipe, trazendo uma séri
 | Desafio | Nome | Nível |
 | ------------- |:-------------:|:-------------:|
 |0000| [Bem-vinda!](desafios-py/d0000-bem-vinda) | iniciante |
+|0001| [Calculadora simples](desafios-py/d0001-calculadora-simples) | iniciante |
 
 ## Como funciona? :thinking:
 
