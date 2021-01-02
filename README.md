@@ -63,3 +63,13 @@ Cada desafio tem sua pasta onde é possível encontrar o enunciado e subir com a
 ## Não entendi um enunciado, o que eu faço? ![worried face](img/worried_face.png)
 
 1. Abra uma `issue` linkando a sua questão e explicando a sua dúvida.
+
+----
+
+## Dúvidas com o Git/GitHub?
+
+
+0. [Instalando, configurando e inicializando o Git no Linux](git-github/p0000_instalacao_linux.md)
+
+1. [Instalando, configurando e inicializando o Git no Windows](git-github/p0001_instalacao_git_windows.md)
+
