@@ -1,5 +1,6 @@
 # Instalando, configurando e inicializando o Git no Linux
 
+**Atenção!** Esse tutorial é para sistemas Linux derivadas do Debian (Ubuntu, Kali, elementary OS, Mint, etc).
 
 Para instalar o Git no Linux, digite no terminal:
 
@@ -61,20 +62,6 @@ $ git config user.email <seu@email.com>
 $ git config core.editor nano
 ```
 
-Para inicializar o git no diretório desejado (caso ainda não o tenha feito), vá até o local onde você deseja fazer o controle de versionamento.
-
-```
-$ cd /home/seu_usuário/seu_repositório
-```
-
-- **cd** do inglês, change directory; serve para mudar de diretório/pasta.
-
-e digite
-
-```
-$ git init
-```
-
-A partir de agora, os arquivos serão rastreados pelo **Git**.
+Agora temos o Git configurado e pronto para uso.
 
 tags: git, linux, configuração, instalação, tutorial

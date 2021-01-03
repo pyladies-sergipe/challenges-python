@@ -1,5 +1,6 @@
 # Instalando, configurando e inicializando o Git no Windows
 
+
 Para instalar o **Git** no Windows, [acesse o site oficial](https://git-scm.com/download/win).
 
 Após baixar o **instalador** execute-o para **começar a instalação**.
