@@ -73,3 +73,4 @@ Cada desafio tem sua pasta onde é possível encontrar o enunciado e subir com a
 
 1. [Instalando, configurando e inicializando o Git no Windows](git-github/p0001_instalacao_git_windows.md)
 
+2. [Instalação do GitHub Desktop para Windows](git-github/p0002_github_desktop.md)
