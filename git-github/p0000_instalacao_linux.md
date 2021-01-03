@@ -63,5 +63,3 @@ $ git config core.editor nano
 ```
 
 Agora temos o Git configurado e pronto para uso.
-
-tags: git, linux, configuração, instalação, tutorial

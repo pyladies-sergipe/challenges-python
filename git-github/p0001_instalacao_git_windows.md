@@ -98,5 +98,3 @@ Para finalizar clique em **Finish**.
 ![final instalação](img/p0001-14.png)
 
 Agora você já pode versionar seus códigos no Windows! =D
-
-tags: git, instalação, windows
