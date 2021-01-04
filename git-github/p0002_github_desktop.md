@@ -35,7 +35,7 @@ Como queremos fazer a integração com o GitHub, vamos clicar para fazer o login
 
 ![sign in](img/p0002-3.png)
 
-Seremos redicionadas ao site para preencher com o **nome de usuário e senha** da nossa conta.
+Seremos redirecionadas ao site para preencher com o **nome de usuário e senha** da nossa conta.
 
 ![user e senha](img/p0002-6.png)
 
