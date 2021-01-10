@@ -6,7 +6,7 @@ O programa faz uma das operações (soma, subtração, multiplicação ou divis�
 
 ---
 
-Caso a usuária tenha escolhido a soma:
+Caso a usuária tenha escolhido a **soma**:
 
 **Entrada**
 
@@ -22,7 +22,7 @@ Caso a usuária tenha escolhido a soma:
 
 ---
 
-Caso a usuária tenha escolhido a subtração:
+Caso a usuária tenha escolhido a **subtração**:
 
 **Entrada**
 
@@ -38,7 +38,7 @@ Caso a usuária tenha escolhido a subtração:
 
 ---
 
-Caso a usuária tenha escolhido a multiplicação:
+Caso a usuária tenha escolhido a **multiplicação**:
 
 **Entrada**
 
@@ -54,7 +54,7 @@ Caso a usuária tenha escolhido a multiplicação:
 
 ---
 
-Caso a usuária tenha escolhido a divisão:
+Caso a usuária tenha escolhido a **divisão**:
 
 **Entrada**
 
