@@ -10,6 +10,7 @@ Este repositório é mantido pelo capítulo PyLadies Sergipe, trazendo uma séri
 | ------------- |:-------------:|:-------------:|
 |0000| [Bem-vinda!](desafios-py/d0000-bem-vinda) | iniciante |
 |0001| [Calculadora simples](desafios-py/d0001-calculadora-simples) | iniciante |
+|0002| [Tabuada de multiplicação](desafios-py/d0002-tabuada-multiplicacao) | iniciante |
 
 ## Como funciona? ![thinking face](img/thinking_face.png)
 
