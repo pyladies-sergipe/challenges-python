@@ -8,9 +8,9 @@ Este repositório é mantido pelo capítulo PyLadies Sergipe, trazendo uma séri
 
 | Desafio | Nome | Nível |
 | ------------- |:-------------:|:-------------:|
-|0000| [Bem-vinda!](desafios-py/d0000-bem-vinda) | iniciante |
-|0001| [Calculadora simples](desafios-py/d0001-calculadora-simples) | iniciante |
-|0002| [Tabuada de multiplicação](desafios-py/d0002-tabuada-multiplicacao) | iniciante |
+|0000| [Bem-vinda!](desafios-py/iniciante/d0000-bem-vinda) | iniciante |
+|0001| [Calculadora simples](desafios-py/iniciante/d0001-calculadora-simples) | iniciante |
+|0002| [Tabuada de multiplicação](desafios-py/iniciante/d0002-tabuada-multiplicacao) | iniciante |
 
 ## Como funciona? ![thinking face](img/thinking_face.png)
 
