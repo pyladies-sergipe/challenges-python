@@ -12,6 +12,26 @@ Este repositório é mantido pelo capítulo PyLadies Sergipe, trazendo uma séri
 |0001| [Calculadora simples](desafios-py/iniciante/d0001-calculadora-simples) | iniciante |
 |0002| [Tabuada de multiplicação](desafios-py/iniciante/d0002-tabuada-multiplicacao) | iniciante |
 
+----
+
+| Desafio | Nome | Nível |
+| ------------- |:-------------:|:-------------:|
+|0000| [Palíndromo](desafios-py/intermediario/d0000-palindromo) | intermediário |
+
+----
+
+| Desafio | Nome | Nível |
+| ------------- |:-------------:|:-------------:|
+|0000| [Soma de duas matrizes](desafios-py/avancado/d0000-soma-duas-matrizes) | avançado |
+
+----
+
+| Desafio | Nome | Nível |
+| ------------- |:-------------:|:-------------:|
+|0000| [Algoritmo de Dijkstra](desafios-py/expert/d0000-algoritmo-dijkstra) | expert |
+|0001| [Latitude e longitude por IP](desafios-py/expert/d0001-latitude-longitude-ip) | expert |
+
+
 ## Como funciona? ![thinking face](img/thinking_face.png)
 
 Cada desafio tem sua pasta onde é possível encontrar o enunciado e subir com a sugestão de resolução.
